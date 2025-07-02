@@ -1,0 +1,8 @@
+export const questConfig = {
+  GET_STARTED_QUESTID: 'c-greta-get-started',
+  USER_ID: 'u-85e504e4-e047-4081-b04a-d9b650242e6f',
+  APIKEY: 'k-8b625293-995a-4ba9-a34d-751717719884',
+  TOKEN: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1LTg1ZTUwNGU0LWUwNDctNDA4MS1iMDRhLWQ5YjY1MDI0MmU2ZiIsImlhdCI6MTc1MTMxNTk1OCwiZXhwIjoxNzUzOTA3OTU4fQ.HnfWNdmite3mcYYlH6xsMrGk6bLKl0PR92AahK7QUlk',
+  ENTITYID: 'e-fc326ddc-d0d3-4a75-ab95-95736d6139ad',
+  PRIMARY_COLOR: '#0284c7' // ocean-600 from tailwind config
+};
